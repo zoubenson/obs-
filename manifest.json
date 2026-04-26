@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-bidirectional-sync",
+  "name": "Bidirectional Sync",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Two-way sync via SFTP or WebDAV",
+  "author": "Your Name",
+  "isDesktopOnly": true
+}
